@@ -25,6 +25,7 @@ def dataread(input_xlsx):
         print(f"Error in dataread function: {str(e)}")
 
 def stop_words(filenames):
+    #instead of using nltk's stopwords we use the specified stopwords from the given files
     try:
         output_filename = 'stopwords.txt'
 
