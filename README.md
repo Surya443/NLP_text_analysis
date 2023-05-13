@@ -27,15 +27,16 @@ Range is from 0 to +1
 **Analysis of Readability:**
 Analysis of Readability is calculated using the Gunning Fox index formula described below.
 
-Average Sentence Length = the number of words / the number of sentences
+               Average Sentence Length = the number of words / the number of sentences
 
-Percentage of Complex words = the number of complex words / the number of words 
+              Percentage of Complex words = the number of complex words / the number of words 
 
-Fog Index = 0.4 * (Average Sentence Length + Percentage of Complex words)
+              Fog Index = 0.4 * (Average Sentence Length + Percentage of Complex words)
 
 **Average Number of Words Per Sentence:**
 The formula for calculating is:
-Average Number of Words Per Sentence = the total number of words / the total number of sentences
+
+               Average Number of Words Per Sentence = the total number of words / the total number of sentences
 
 **Complex Word Count:**
 Complex words are words in the text that contain more than two syllables.
